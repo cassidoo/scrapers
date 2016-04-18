@@ -1,8 +1,10 @@
 # Scrapers
 A list of scrapers from around the web.
 
+Please contribute by adding links, adding pros/cons, titles, or anything else you think would be helpful!
+
 # The list
-### Title
+### Beautiful Soup
 https://www.crummy.com/software/BeautifulSoup/
 
 **Pros**
@@ -11,7 +13,7 @@ https://www.crummy.com/software/BeautifulSoup/
 
 ---
 
-### Title
+### Crawly
 http://crawly.diffbot.com/
 
 **Pros**
@@ -20,7 +22,7 @@ http://crawly.diffbot.com/
 
 ---
 
-### Title
+### Scraping Hub
 http://scrapinghub.com 
 
 **Pros**
@@ -29,7 +31,7 @@ http://scrapinghub.com
 
 ---
 
-### Title
+### Outwit Hub
 http://www.outwit.com/products/hub/
 
 **Pros**
