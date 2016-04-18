@@ -11,6 +11,8 @@ https://www.crummy.com/software/BeautifulSoup/
 
 **Cons**
 
+**Applicable Language(s)**
+- Python 
 ---
 
 ### Crawly
@@ -20,6 +22,7 @@ http://crawly.diffbot.com/
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### Scraping Hub
@@ -29,6 +32,7 @@ http://scrapinghub.com
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### Outwit Hub
@@ -38,6 +42,7 @@ http://www.outwit.com/products/hub/
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### Title
@@ -47,6 +52,7 @@ http://webroots.io
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### Title
@@ -56,6 +62,7 @@ http://clearbit.com
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### Title
@@ -65,6 +72,7 @@ http://toofr.com
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### Title
@@ -74,6 +82,7 @@ http://import.io
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### Title
@@ -83,6 +92,7 @@ http://kimonolabs.com
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### Title
@@ -92,6 +102,7 @@ http://apifier.com
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### Title
@@ -101,6 +112,7 @@ http://elink.club
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### Title
@@ -110,6 +122,7 @@ http://www.eliteproxyswitcher.com/
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### Title
@@ -119,6 +132,7 @@ http://www.uipath.com/
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### Title
@@ -128,6 +142,7 @@ http://diffbot.com
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### Title
@@ -137,6 +152,7 @@ http://cloudscrape.com
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### Title
@@ -146,6 +162,7 @@ http://community.screen-scraper.com/
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### Title
@@ -155,6 +172,7 @@ https://commoncrawl.org/
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### Title
@@ -164,6 +182,7 @@ http://www.fminer.com/
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### Title
@@ -173,6 +192,7 @@ https://scraperwiki.com/
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### Title
@@ -182,6 +202,7 @@ http://nutch.apache.org/
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### Title
@@ -191,6 +212,7 @@ http://www.ubotstudio.com/index7
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### Title
@@ -200,6 +222,7 @@ http://mozenda.com
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### Title
@@ -209,6 +232,7 @@ http://fivefilters.org/
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### Title
@@ -218,6 +242,7 @@ http://grabby.io
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### Title
@@ -227,6 +252,7 @@ http://fullcontact.com
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### Title
@@ -236,6 +262,7 @@ http://emailhunter.co
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### Title
@@ -245,6 +272,7 @@ https://wrapapi.com
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### Title
@@ -254,4 +282,5 @@ http://webscraper.io/
 
 **Cons**
 
+**Applicable Language(s)**
 ---
