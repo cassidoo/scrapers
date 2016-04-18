@@ -3,11 +3,13 @@ A list of scrapers from around the web.
 
 Find your way through with the [Table of Contents](#table-of-contents). It will showcase the entire list with easy navigate to their pros and cons while also providing links to their respective websites.
 
+Please contribute by adding links, adding pros/cons, titles, or anything else you think would be helpful!
+
 ## Table Of Contents
 - [Beautiful Soup](#beautiful-soup) [(link)](https://www.crummy.com/software/BeautifulSoup/)
 - [Crawly](#crawly) [(link)](http://crawly.diffbot.com/)
 - [Scrapinghub](#scrapinghub) [(link)](http://scrapinghub.com)
-- [Outwit](#outwit) [(link)](http://www.outwit.com/products/hub/)
+- [Outwit Hub](#outwit-hub) [(link)](http://www.outwit.com/products/hub/)
 - [Clearbit](#clearbit) [(link)](http://clearbit.com)
 - [Toofr](#toofr) [(link)](http://toofr.com)
 - [Import.io](#importio) [(link)](http://import.io)
@@ -53,7 +55,7 @@ Find your way through with the [Table of Contents](#table-of-contents). It will 
 
 ---
 
-### [Outwit](http://www.outwit.com/products/hub/)
+### [Outwit Hub](http://www.outwit.com/products/hub/)
 **Pros**
 
 **Cons**
