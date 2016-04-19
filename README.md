@@ -33,6 +33,7 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 - [Email Hunter](#email-hunter) [(link)](http://emailhunter.co)
 - [WrapAPI](#wrapapi) [(link)](https://wrapapi.com)
 - [Web Scraper](#web-scraper) [(link)](http://webscraper.io/)
+- [X-Ray](#x-ray) [(link)](https://github.com/lapwinglabs/x-ray)
 
 ### [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 **Pros**
@@ -274,4 +275,14 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 **Cons**
 
 **Applicable Language(s)**
+
+---
+
+### [X-Ray](https://github.com/lapwinglabs/x-ray)
+**Pros**
+
+**Cons**
+
+**Applicable Language(s)**
+
 ---
