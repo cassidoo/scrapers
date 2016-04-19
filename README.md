@@ -39,12 +39,17 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 
 **Cons**
 
+**Applicable Language(s)**
+- Python
+
 ---
 
 ### [Crawly](http://crawly.diffbot.com/)
 **Pros**
 
 **Cons**
+
+**Applicable Language(s)**
 
 ---
 
@@ -53,12 +58,16 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 
 **Cons**
 
+**Applicable Language(s)**
+
 ---
 
 ### [Outwit Hub](http://www.outwit.com/products/hub/)
 **Pros**
 
 **Cons**
+
+**Applicable Language(s)**
 
 ---
 
@@ -67,12 +76,16 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 
 **Cons**
 
+**Applicable Language(s)**
+
 ---
 
 ### [Toofr](http://toofr.com)
 **Pros**
 
 **Cons**
+
+**Applicable Language(s)**
 
 ---
 
@@ -81,12 +94,16 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 
 **Cons**
 
+**Applicable Language(s)**
+
 ---
 
 ### [Kimonolabs](http://kimonolabs.com)
 **Pros**
 
 **Cons**
+
+**Applicable Language(s)**
 
 ---
 
@@ -95,12 +112,16 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 
 **Cons**
 
+**Applicable Language(s)**
+
 ---
 
 ### [eLink](http://elink.club)
 **Pros**
 
 **Cons**
+
+**Applicable Language(s)**
 
 ---
 
@@ -109,12 +130,16 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 
 **Cons**
 
+**Applicable Language(s)**
+
 ---
 
 ### [UiPath](http://www.uipath.com/)
 **Pros**
 
 **Cons**
+
+**Applicable Language(s)**
 
 ---
 
@@ -123,12 +148,16 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 
 **Cons**
 
+**Applicable Language(s)**
+
 ---
 
 ### [Dexi.io](https://dexi.io/)
 **Pros**
 
 **Cons**
+
+**Applicable Language(s)**
 
 ---
 
@@ -137,12 +166,16 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 
 **Cons**
 
+**Applicable Language(s)**
+
 ---
 
 ### [Common Crawl](https://commoncrawl.org/)
 **Pros**
 
 **Cons**
+
+**Applicable Language(s)**
 
 ---
 
@@ -151,12 +184,15 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 
 **Cons**
 
+**Applicable Language(s)**
 ---
 
 ### [ScraperWiki](https://scraperwiki.com/)
 **Pros**
 
 **Cons**
+
+**Applicable Language(s)**
 
 ---
 
@@ -165,12 +201,16 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 
 **Cons**
 
+**Applicable Language(s)**
+
 ---
 
 ### [UBot Studio](http://www.ubotstudio.com/index7)
 **Pros**
 
 **Cons**
+
+**Applicable Language(s)**
 
 ---
 
@@ -179,12 +219,16 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 
 **Cons**
 
+**Applicable Language(s)**
+
 ---
 
 ### [FiveFilters](http://fivefilters.org/)
 **Pros**
 
 **Cons**
+
+**Applicable Language(s)**
 
 ---
 
@@ -193,12 +237,16 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 
 **Cons**
 
+**Applicable Language(s)**
+
 ---
 
 ### [FullContact](http://fullcontact.com)
 **Pros**
 
 **Cons**
+
+**Applicable Language(s)**
 
 ---
 
@@ -207,12 +255,16 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 
 **Cons**
 
+**Applicable Language(s)**
+
 ---
 
 ### [WrapAPI](https://wrapapi.com)
 **Pros**
 
 **Cons**
+
+**Applicable Language(s)**
 
 ---
 
@@ -221,4 +273,5 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 
 **Cons**
 
+**Applicable Language(s)**
 ---
