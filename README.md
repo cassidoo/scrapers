@@ -1,255 +1,222 @@
 # Scrapers
 A list of scrapers from around the web.
 
+Find your way through with the [Table of Contents](#table-of-contents). It will showcase the entire list with easy navigate to their pros and cons while also providing links to their respective websites.
+
 Please contribute by adding links, adding pros/cons, titles, or anything else you think would be helpful!
 
-# The list
-### Beautiful Soup
-https://www.crummy.com/software/BeautifulSoup/
+## Table Of Contents
+- [Beautiful Soup](#beautiful-soup) [(link)](https://www.crummy.com/software/BeautifulSoup/)
+- [Crawly](#crawly) [(link)](http://crawly.diffbot.com/)
+- [Scrapinghub](#scrapinghub) [(link)](http://scrapinghub.com)
+- [Outwit Hub](#outwit-hub) [(link)](http://www.outwit.com/products/hub/)
+- [Clearbit](#clearbit) [(link)](http://clearbit.com)
+- [Toofr](#toofr) [(link)](http://toofr.com)
+- [Import.io](#importio) [(link)](http://import.io)
+- [Kimonolabs](#kimonolabs) [(link)](http://kimonolabs.com)
+- [Apifier](#apifier) [(link)](http://apifier.com)
+- [eLink](#elink) [(link)](http://elink.club)
+- [EliteProxySwitcher](#eliteproxyswitcher) [(link)](http://www.eliteproxyswitcher.com/)
+- [UiPath](#uipath) [(link)](http://www.uipath.com/)
+- [Diffbot](#diffbot) [(link)](http://diffbot.com)
+- [Dexi.io](#dexiio) [(link)](https://dexi.io/)
+- [Screen Scraper](#screen-scraper) [(link)](http://community.screen-scraper.com/)
+- [Common Crawl](#common-crawl) [(link)](https://commoncrawl.org/)
+- [FMiner](#fminer) [(link)](http://www.fminer.com/)
+- [ScraperWiki](#scraperwiki) [(link)](https://scraperwiki.com/)
+- [Nutch](#nutch) [(link)](http://nutch.apache.org/)
+- [UBot Studio](#ubot-studio) [(link)](http://www.ubotstudio.com/index7)
+- [Mozenda](#mozenda) [(link)](http://mozenda.com)
+- [FiveFilters](#fivefilters) [(link)](http://fivefilters.org/)
+- [Grabby](#grabby) [(link)](http://grabby.io)
+- [FullContact](#fullcontact) [(link)](http://fullcontact.com)
+- [Email Hunter](#email-hunter) [(link)](http://emailhunter.co)
+- [WrapAPI](#wrapapi) [(link)](https://wrapapi.com)
+- [Web Scraper](#web-scraper) [(link)](http://webscraper.io/)
 
+### [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 **Pros**
 
 **Cons**
 
 ---
 
-### Crawly
-http://crawly.diffbot.com/
-
+### [Crawly](http://crawly.diffbot.com/)
 **Pros**
 
 **Cons**
 
 ---
 
-### Scraping Hub
-http://scrapinghub.com 
-
+### [Scrapinghub](http://scrapinghub.com)
 **Pros**
 
 **Cons**
 
 ---
 
-### Outwit Hub
-http://www.outwit.com/products/hub/
-
+### [Outwit Hub](http://www.outwit.com/products/hub/)
 **Pros**
 
 **Cons**
 
 ---
 
-### Title
-http://webroots.io 
-
+### [Clearbit](http://clearbit.com)
 **Pros**
 
 **Cons**
 
 ---
 
-### Title
-http://clearbit.com
-
+### [Toofr](http://toofr.com)
 **Pros**
 
 **Cons**
 
 ---
 
-### Title
-http://toofr.com
-
+### [Import.io](http://import.io)
 **Pros**
 
 **Cons**
 
 ---
 
-### Title
-http://import.io
-
+### [Kimonolabs](http://kimonolabs.com)
 **Pros**
 
 **Cons**
 
 ---
 
-### Title
-http://kimonolabs.com
-
+### [Apifier](http://apifier.com)
 **Pros**
 
 **Cons**
 
 ---
 
-### Title
-http://apifier.com
-
+### [eLink](http://elink.club)
 **Pros**
 
 **Cons**
 
 ---
 
-### Title
-http://elink.club
-
+### [EliteProxySwitcher](http://www.eliteproxyswitcher.com/)
 **Pros**
 
 **Cons**
 
 ---
 
-### Title
-http://www.eliteproxyswitcher.com/
-
+### [UiPath](http://www.uipath.com/)
 **Pros**
 
 **Cons**
 
 ---
 
-### Title
-http://www.uipath.com/
-
+### [Diffbot](http://diffbot.com)
 **Pros**
 
 **Cons**
 
 ---
 
-### Title
-http://diffbot.com 
-
+### [Dexi.io](https://dexi.io/)
 **Pros**
 
 **Cons**
 
 ---
 
-### Title
-http://cloudscrape.com 
-
+### [Screen Scraper](http://community.screen-scraper.com/)
 **Pros**
 
 **Cons**
 
 ---
 
-### Title
-http://community.screen-scraper.com/
-
+### [Common Crawl](https://commoncrawl.org/)
 **Pros**
 
 **Cons**
 
 ---
 
-### Title
-https://commoncrawl.org/
-
+### [FMiner](http://www.fminer.com/)
 **Pros**
 
 **Cons**
 
 ---
 
-### Title
-http://www.fminer.com/
-
+### [ScraperWiki](https://scraperwiki.com/)
 **Pros**
 
 **Cons**
 
 ---
 
-### Title
-https://scraperwiki.com/
-
+### [Nutch](http://nutch.apache.org/)
 **Pros**
 
 **Cons**
 
 ---
 
-### Title
-http://nutch.apache.org/
-
+### [UBot Studio](http://www.ubotstudio.com/index7)
 **Pros**
 
 **Cons**
 
 ---
 
-### Title
-http://www.ubotstudio.com/index7
-
+### [Mozenda](http://mozenda.com)
 **Pros**
 
 **Cons**
 
 ---
 
-### Title
-http://mozenda.com
-
+### [FiveFilters](http://fivefilters.org/)
 **Pros**
 
 **Cons**
 
 ---
 
-### Title
-http://fivefilters.org/
-
+### [Grabby](http://grabby.io)
 **Pros**
 
 **Cons**
 
 ---
 
-### Title
-http://grabby.io
-
+### [FullContact](http://fullcontact.com)
 **Pros**
 
 **Cons**
 
 ---
 
-### Title
-http://fullcontact.com
-
+### [Email Hunter](http://emailhunter.co)
 **Pros**
 
 **Cons**
 
 ---
 
-### Title
-http://emailhunter.co
-
+### [WrapAPI](https://wrapapi.com)
 **Pros**
 
 **Cons**
 
 ---
 
-### Title
-https://wrapapi.com
-
-**Pros**
-
-**Cons**
-
----
-
-### Title
-http://webscraper.io/
-
+### [Web Scraper](http://webscraper.io/)
 **Pros**
 
 **Cons**
