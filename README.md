@@ -36,6 +36,10 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 - [X-Ray](#x-ray) [(link)](https://github.com/lapwinglabs/x-ray)
 
 ### [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
+
+**Description**: A Python library for navigating and parsing results from the
+Web. It allow for searching the HTML tree to find various tags.
+
 **Pros**
 
 **Cons**
@@ -46,6 +50,9 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 ---
 
 ### [Crawly](http://crawly.diffbot.com/)
+
+**Description**: Automatic service that turns a website into structured data in the form of JSON or CSV.
+
 **Pros**
 
 **Cons**
@@ -55,6 +62,11 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 ---
 
 ### [Scrapinghub](http://scrapinghub.com)
+
+**Description**: Scraper cloud hosting as a service. Allows developers to
+deploy their own scrapers on their platform and benefit from their existing
+infrastructure.
+
 **Pros**
 
 **Cons**
@@ -64,6 +76,10 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 ---
 
 ### [Outwit Hub](http://www.outwit.com/products/hub/)
+
+**Description**: Application that can extract information from a website and
+turn it into structured data (CSV, Excel, etc.).
+
 **Pros**
 
 **Cons**
@@ -73,6 +89,9 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 ---
 
 ### [Clearbit](http://clearbit.com)
+
+**Description**: Service for looking up company and people information.
+
 **Pros**
 
 **Cons**
@@ -82,6 +101,9 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 ---
 
 ### [Toofr](http://toofr.com)
+
+**Description**: Service for looking up business e-mails.
+
 **Pros**
 
 **Cons**
@@ -91,6 +113,9 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 ---
 
 ### [Import.io](http://import.io)
+
+**Description**: Automated tool to extract structured information from websites.
+
 **Pros**
 
 **Cons**
@@ -100,6 +125,11 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 ---
 
 ### [Kimonolabs](http://kimonolabs.com)
+
+**Description**: Kimono was acquired by Palantir. This was a cloud-based
+service for turning websites into structured APIs. Now they offer a desktop-based
+alternative for continuing to use their tools.
+
 **Pros**
 
 **Cons**
@@ -109,15 +139,22 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 ---
 
 ### [Apifier](http://apifier.com)
+
+**Description**: Cloud-based scraper for JavaScript.
+
 **Pros**
 
 **Cons**
 
 **Applicable Language(s)**
+- JavaScript
 
 ---
 
 ### [eLink](http://elink.club)
+
+**Description**: Tool to mine LinkedIn profiles based on keywords.
+
 **Pros**
 
 **Cons**
@@ -127,6 +164,9 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 ---
 
 ### [EliteProxySwitcher](http://www.eliteproxyswitcher.com/)
+
+**Description**: Local software that can download a proxy list and let users choose which one to use.
+
 **Pros**
 
 **Cons**
@@ -136,6 +176,9 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 ---
 
 ### [UiPath](http://www.uipath.com/)
+
+**Description**: Visual tool for GUI automation by recording.
+
 **Pros**
 
 **Cons**
@@ -145,6 +188,10 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 ---
 
 ### [Diffbot](http://diffbot.com)
+
+**Description**: Automated tool for extracting structured information from
+pages, crawling websites, and turning a website into an API.
+
 **Pros**
 
 **Cons**
@@ -154,6 +201,9 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 ---
 
 ### [Dexi.io](https://dexi.io/)
+
+**Description**: Website data extraction using a visual programming language.
+
 **Pros**
 
 **Cons**
@@ -163,6 +213,9 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 ---
 
 ### [Screen Scraper](http://community.screen-scraper.com/)
+
+**Description**: Local tool for scraping websites.
+
 **Pros**
 
 **Cons**
@@ -172,6 +225,9 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 ---
 
 ### [Common Crawl](https://commoncrawl.org/)
+
+**Description**: Open dataset of crawled websites.
+
 **Pros**
 
 **Cons**
@@ -181,14 +237,22 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 ---
 
 ### [FMiner](http://www.fminer.com/)
+
+**Description**: Local software for web scraping using a recording and a visual programming language.
+
 **Pros**
 
 **Cons**
 
 **Applicable Language(s)**
+
 ---
 
 ### [ScraperWiki](https://scraperwiki.com/)
+
+**Description**: Write a scraper in the browser and run on their cloud-based
+service. This is used by many news organisations.
+
 **Pros**
 
 **Cons**
@@ -198,6 +262,10 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 ---
 
 ### [Nutch](http://nutch.apache.org/)
+
+**Description**: Web crawler that can be combined with the Hadoop ecosystem to
+run in a cluster.
+
 **Pros**
 
 **Cons**
@@ -207,6 +275,10 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 ---
 
 ### [UBot Studio](http://www.ubotstudio.com/index7)
+
+**Description**: Web automation software using a visual programming language
+and recorder.
+
 **Pros**
 
 **Cons**
@@ -216,6 +288,9 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 ---
 
 ### [Mozenda](http://mozenda.com)
+
+**Description**: Extract structured information from HTML, PDF, Excel, and Word by clicking on document elements.
+
 **Pros**
 
 **Cons**
@@ -225,6 +300,10 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 ---
 
 ### [FiveFilters](http://fivefilters.org/)
+
+**Description**: Provide various website extraction and transformation tools
+such as Full-Text RSS and Term Extraction as services.
+
 **Pros**
 
 **Cons**
@@ -234,6 +313,9 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 ---
 
 ### [Grabby](http://grabby.io)
+
+**Description**: Service that searches a website for e-mails.
+
 **Pros**
 
 **Cons**
@@ -243,6 +325,9 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 ---
 
 ### [FullContact](http://fullcontact.com)
+
+**Description**: API to retrieve more information on a person.
+
 **Pros**
 
 **Cons**
@@ -252,6 +337,9 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 ---
 
 ### [Email Hunter](http://emailhunter.co)
+
+**Description**: API to find e-mail addresses for a given domain name.
+
 **Pros**
 
 **Cons**
@@ -261,6 +349,9 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 ---
 
 ### [WrapAPI](https://wrapapi.com)
+
+**Description**: Turn a website into an API. The structure of the data is defined by clicking elements or regular expressions.
+
 **Pros**
 
 **Cons**
@@ -270,6 +361,11 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 ---
 
 ### [Web Scraper](http://webscraper.io/)
+
+**Description**: Extension that downloads websites and turns them into
+structured data. Data is selected by element or by specialised selectors (e.g.,
+for tables).
+
 **Pros**
 
 **Cons**
@@ -279,10 +375,14 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 ---
 
 ### [X-Ray](https://github.com/lapwinglabs/x-ray)
+
+**Description**: NPM module for scraping structured data via jQuery-like selectors.
+
 **Pros**
 
 **Cons**
 
 **Applicable Language(s)**
+- JavaScript (Node.js)
 
 ---
