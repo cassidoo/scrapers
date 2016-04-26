@@ -34,6 +34,7 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 - [WrapAPI](#wrapapi) [(link)](https://wrapapi.com)
 - [Web Scraper](#web-scraper) [(link)](http://webscraper.io/)
 - [X-Ray](#x-ray) [(link)](https://github.com/lapwinglabs/x-ray)
+- [lxml](#lxml) [(link)](http://lxml.de/)
 
 ### [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 
@@ -386,3 +387,16 @@ for tables).
 - JavaScript (Node.js)
 
 ---
+
+### [lxml](http://lxml.de/)
+
+**Description**: lxml is the most feature-rich and easy-to-use library for processing XML and HTML in the Python language.
+
+**Pros**
+- Incredibly fast (see: [Python HTML Parser Performance](http://www.ianbicking.org/blog/2008/03/python-html-parser-performance.html))
+
+**Cons**
+
+**Applicable Language(s)**
+- Python
+
