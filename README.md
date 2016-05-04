@@ -35,6 +35,7 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 - [Web Scraper](#web-scraper) [(link)](http://webscraper.io/)
 - [X-Ray](#x-ray) [(link)](https://github.com/lapwinglabs/x-ray)
 - [lxml](#lxml) [(link)](http://lxml.de/)
+- [scrape-it](#scrape-it) [(link)](https://github.com/IonicaBizau/scrape-it)
 
 ### [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 
@@ -399,4 +400,17 @@ for tables).
 
 **Applicable Language(s)**
 - Python
+
+---
+
+### [scrape-it](https://github.com/IonicaBizau/scrape-it)
+
+**Description**: A Node.js scraper for humans.
+
+**Pros**
+
+**Cons**
+
+**Applicable Language(s)**
+- JavaScript (Node.js)
 
