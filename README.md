@@ -36,6 +36,7 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 - [X-Ray](#x-ray) [(link)](https://github.com/lapwinglabs/x-ray)
 - [lxml](#lxml) [(link)](http://lxml.de/)
 - [scrape-it](#scrape-it) [(link)](https://github.com/IonicaBizau/scrape-it)
+- [Web Robots](#web-robots) [(link)](https://webrobots.io)
 
 ### [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 
@@ -414,3 +415,20 @@ for tables).
 **Applicable Language(s)**
 - JavaScript (Node.js)
 
+---
+
+### [Web Robots](https://webrobots.io)
+
+**Description**: Data as a Service platform for web scraping.
+
+**Pros**
+- Scraping dynamic javascript heavy websites
+- Login and form fill on websites
+- Data normalization and validation
+- Data uploads
+
+**Cons**
+- Currently in beta
+- Possible payment model in the future
+
+**Applicable Language(s)**
