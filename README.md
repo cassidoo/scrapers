@@ -27,7 +27,7 @@ Please help maintain alphabetical order.
 - [Mozenda](#mozenda) [(link)](http://mozenda.com)
 - [Nutch](#nutch) [(link)](http://nutch.apache.org/)
 - [Outwit Hub](#outwit-hub) [(link)](http://www.outwit.com/products/hub/)
-- [Octoparse](#octoparse) [(link)](www.octoparse.com/)
+- [Octoparse](#octoparse) [(link)](http://www.octoparse.com/)
 - [scrape-it](#scrape-it) [(link)](https://github.com/IonicaBizau/scrape-it)
 - [ScraperWiki](#scraperwiki) [(link)](https://scraperwiki.com/)
 - [Scrapinghub](#scrapinghub) [(link)](http://scrapinghub.com)
@@ -291,7 +291,7 @@ turn it into structured data (CSV, Excel, etc.).
 
 ---
 
-### [octoparse](www.octoparse.com)
+### [Octoparse](http://www.octoparse.com)
 
 **Description**: The free web scraping tool for extracting all the web page data into several structured file formats easily and effectively.
 
