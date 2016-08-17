@@ -304,7 +304,7 @@ turn it into structured data (CSV, Excel, etc.).
 
 ---
 
-### [rvest](#rvest) [(link)](https://github.com/hadley/rvest)
+### [rvest](https://github.com/hadley/rvest)
 
 **Description**: R package to scrape information from web pages. It is designed to work with magrittr to make it easy to express common web scraping tasks, inspired by libraries like beautiful soup.
 
