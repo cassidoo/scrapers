@@ -28,6 +28,7 @@ Please help maintain alphabetical order.
 - [Nutch](#nutch) [(link)](http://nutch.apache.org/)
 - [Outwit Hub](#outwit-hub) [(link)](http://www.outwit.com/products/hub/)
 - [Octoparse](#octoparse) [(link)](http://www.octoparse.com/)
+- [rvest](#rvest) [(link)](https://github.com/hadley/rvest)
 - [scrape-it](#scrape-it) [(link)](https://github.com/IonicaBizau/scrape-it)
 - [ScraperWiki](#scraperwiki) [(link)](https://scraperwiki.com/)
 - [Scrapinghub](#scrapinghub) [(link)](http://scrapinghub.com)
@@ -300,6 +301,19 @@ turn it into structured data (CSV, Excel, etc.).
 **Cons**
 
 **Applicable Language(s)**
+
+---
+
+### [rvest](#rvest) [(link)](https://github.com/hadley/rvest)
+
+**Description**: R package to scrape information from web pages. It is designed to work with magrittr to make it easy to express common web scraping tasks, inspired by libraries like beautiful soup.
+
+**Pros**
+
+**Cons**
+
+**Applicable Language(s)**
+- R
 
 ---
 
