@@ -45,10 +45,6 @@ Please help maintain alphabetical order.
 
 **Description**: Cloud-based scraper for JavaScript.
 
-**Pros**
-
-**Cons**
-
 **Applicable Language(s)**
 - JavaScript
 
@@ -59,10 +55,6 @@ Please help maintain alphabetical order.
 **Description**: A Python library for navigating and parsing results from the
 Web. It allow for searching the HTML tree to find various tags.
 
-**Pros**
-
-**Cons**
-
 **Applicable Language(s)**
 - Python
 
@@ -72,10 +64,6 @@ Web. It allow for searching the HTML tree to find various tags.
 
 **Description**: Service for looking up company and people information.
 
-**Pros**
-
-**Cons**
-
 **Applicable Language(s)**
 
 ---
@@ -83,10 +71,6 @@ Web. It allow for searching the HTML tree to find various tags.
 ### [Common Crawl](https://commoncrawl.org/)
 
 **Description**: Open dataset of crawled websites.
-
-**Pros**
-
-**Cons**
 
 **Applicable Language(s)**
 
@@ -96,10 +80,6 @@ Web. It allow for searching the HTML tree to find various tags.
 
 **Description**: Automatic service that turns a website into structured data in the form of JSON or CSV.
 
-**Pros**
-
-**Cons**
-
 **Applicable Language(s)**
 
 ---
@@ -107,10 +87,6 @@ Web. It allow for searching the HTML tree to find various tags.
 ### [Dexi.io](https://dexi.io/)
 
 **Description**: Website data extraction using a visual programming language.
-
-**Pros**
-
-**Cons**
 
 **Applicable Language(s)**
 
@@ -121,10 +97,6 @@ Web. It allow for searching the HTML tree to find various tags.
 **Description**: Automated tool for extracting structured information from
 pages, crawling websites, and turning a website into an API.
 
-**Pros**
-
-**Cons**
-
 **Applicable Language(s)**
 
 ---
@@ -132,10 +104,6 @@ pages, crawling websites, and turning a website into an API.
 ### [eLink](http://elink.club)
 
 **Description**: Tool to mine LinkedIn profiles based on keywords.
-
-**Pros**
-
-**Cons**
 
 **Applicable Language(s)**
 
@@ -145,10 +113,6 @@ pages, crawling websites, and turning a website into an API.
 
 **Description**: Local software that can download a proxy list and let users choose which one to use.
 
-**Pros**
-
-**Cons**
-
 **Applicable Language(s)**
 
 ---
@@ -156,10 +120,6 @@ pages, crawling websites, and turning a website into an API.
 ### [Email Hunter](http://emailhunter.co)
 
 **Description**: API to find e-mail addresses for a given domain name.
-
-**Pros**
-
-**Cons**
 
 **Applicable Language(s)**
 
@@ -170,10 +130,6 @@ pages, crawling websites, and turning a website into an API.
 **Description**: Provide various website extraction and transformation tools
 such as Full-Text RSS and Term Extraction as services.
 
-**Pros**
-
-**Cons**
-
 **Applicable Language(s)**
 
 ---
@@ -181,10 +137,6 @@ such as Full-Text RSS and Term Extraction as services.
 ### [FMiner](http://www.fminer.com/)
 
 **Description**: Local software for web scraping using a recording and a visual programming language.
-
-**Pros**
-
-**Cons**
 
 **Applicable Language(s)**
 
@@ -194,10 +146,6 @@ such as Full-Text RSS and Term Extraction as services.
 
 **Description**: API to retrieve more information on a person.
 
-**Pros**
-
-**Cons**
-
 **Applicable Language(s)**
 
 ---
@@ -206,10 +154,6 @@ such as Full-Text RSS and Term Extraction as services.
 
 **Description**: Service that searches a website for e-mails.
 
-**Pros**
-
-**Cons**
-
 **Applicable Language(s)**
 
 ---
@@ -217,10 +161,6 @@ such as Full-Text RSS and Term Extraction as services.
 ### [Import.io](http://import.io)
 
 **Description**: Automated tool to extract structured information from websites.
-
-**Pros**
-
-**Cons**
 
 **Applicable Language(s)**
 
@@ -231,10 +171,6 @@ such as Full-Text RSS and Term Extraction as services.
 **Description**: Kimono was acquired by Palantir. This was a cloud-based
 service for turning websites into structured APIs. Now they offer a desktop-based
 alternative for continuing to use their tools.
-
-**Pros**
-
-**Cons**
 
 **Applicable Language(s)**
 
@@ -247,8 +183,6 @@ alternative for continuing to use their tools.
 **Pros**
 - Incredibly fast (see: [Python HTML Parser Performance](http://www.ianbicking.org/blog/2008/03/python-html-parser-performance.html))
 
-**Cons**
-
 **Applicable Language(s)**
 - Python
 
@@ -257,10 +191,6 @@ alternative for continuing to use their tools.
 ### [Mozenda](http://mozenda.com)
 
 **Description**: Extract structured information from HTML, PDF, Excel, and Word by clicking on document elements.
-
-**Pros**
-
-**Cons**
 
 **Applicable Language(s)**
 
@@ -271,10 +201,6 @@ alternative for continuing to use their tools.
 **Description**: Web crawler that can be combined with the Hadoop ecosystem to
 run in a cluster.
 
-**Pros**
-
-**Cons**
-
 **Applicable Language(s)**
 
 ---
@@ -284,10 +210,6 @@ run in a cluster.
 **Description**: Application that can extract information from a website and
 turn it into structured data (CSV, Excel, etc.).
 
-**Pros**
-
-**Cons**
-
 **Applicable Language(s)**
 
 ---
@@ -295,10 +217,6 @@ turn it into structured data (CSV, Excel, etc.).
 ### [Octoparse](http://www.octoparse.com)
 
 **Description**: The free web scraping tool for extracting all the web page data into several structured file formats easily and effectively.
-
-**Pros**
-
-**Cons**
 
 **Applicable Language(s)**
 
@@ -308,10 +226,6 @@ turn it into structured data (CSV, Excel, etc.).
 
 **Description**: R package to scrape information from web pages. It is designed to work with magrittr to make it easy to express common web scraping tasks, inspired by libraries like beautiful soup.
 
-**Pros**
-
-**Cons**
-
 **Applicable Language(s)**
 - R
 
@@ -320,10 +234,6 @@ turn it into structured data (CSV, Excel, etc.).
 ### [scrape-it](https://github.com/IonicaBizau/scrape-it)
 
 **Description**: A Node.js scraper for humans.
-
-**Pros**
-
-**Cons**
 
 **Applicable Language(s)**
 - JavaScript (Node.js)
@@ -335,10 +245,6 @@ turn it into structured data (CSV, Excel, etc.).
 **Description**: Write a scraper in the browser and run on their cloud-based
 service. This is used by many news organisations.
 
-**Pros**
-
-**Cons**
-
 **Applicable Language(s)**
 
 ---
@@ -349,10 +255,6 @@ service. This is used by many news organisations.
 deploy their own scrapers on their platform and benefit from their existing
 infrastructure.
 
-**Pros**
-
-**Cons**
-
 **Applicable Language(s)**
 
 ---
@@ -361,10 +263,6 @@ infrastructure.
 
 **Description**: Local tool for scraping websites.
 
-**Pros**
-
-**Cons**
-
 **Applicable Language(s)**
 
 ---
@@ -372,10 +270,6 @@ infrastructure.
 ### [Toofr](http://toofr.com)
 
 **Description**: Service for looking up business e-mails.
-
-**Pros**
-
-**Cons**
 
 **Applicable Language(s)**
 
@@ -386,10 +280,6 @@ infrastructure.
 **Description**: Web automation software using a visual programming language
 and recorder.
 
-**Pros**
-
-**Cons**
-
 **Applicable Language(s)**
 
 ---
@@ -397,10 +287,6 @@ and recorder.
 ### [UiPath](http://www.uipath.com/)
 
 **Description**: Visual tool for GUI automation by recording.
-
-**Pros**
-
-**Cons**
 
 **Applicable Language(s)**
 
@@ -430,10 +316,6 @@ and recorder.
 structured data. Data is selected by element or by specialised selectors (e.g.,
 for tables).
 
-**Pros**
-
-**Cons**
-
 **Applicable Language(s)**
 
 ---
@@ -442,10 +324,6 @@ for tables).
 
 **Description**: Turn a website into an API. The structure of the data is defined by clicking elements or regular expressions.
 
-**Pros**
-
-**Cons**
-
 **Applicable Language(s)**
 
 ---
@@ -453,10 +331,6 @@ for tables).
 ### [X-Ray](https://github.com/lapwinglabs/x-ray)
 
 **Description**: NPM module for scraping structured data via jQuery-like selectors.
-
-**Pros**
-
-**Cons**
 
 **Applicable Language(s)**
 - JavaScript (Node.js)
