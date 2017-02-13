@@ -25,6 +25,7 @@ Please help maintain alphabetical order.
 - [Kimonolabs](#kimonolabs) [(link)](http://kimonolabs.com)
 - [lxml](#lxml) [(link)](http://lxml.de/)
 - [Mozenda](#mozenda) [(link)](http://mozenda.com)
+- [Morph.io](#morphio) [(link)](https://morph.io/)
 - [Nutch](#nutch) [(link)](http://nutch.apache.org/)
 - [Outwit Hub](#outwit-hub) [(link)](http://www.outwit.com/products/hub/)
 - [Octoparse](#octoparse) [(link)](http://www.octoparse.com/)
@@ -193,6 +194,19 @@ alternative for continuing to use their tools.
 **Description**: Extract structured information from HTML, PDF, Excel, and Word by clicking on document elements.
 
 **Applicable Language(s)**
+
+---
+
+### [Morph.io](https://morph.io/)
+
+**Description**: Based on ScraperWiki, run scrapers in Python, Ruby, R, Perl or Node.js.
+
+**Applicable Language(s)**
+- Node.js
+- Perl
+- Python
+- R
+- Ruby
 
 ---
 
