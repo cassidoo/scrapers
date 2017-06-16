@@ -9,6 +9,7 @@ Please help maintain alphabetical order.
 ## Table Of Contents
 - [Apifier](#apifier) [(link)](http://apifier.com)
 - [Beautiful Soup](#beautiful-soup) [(link)](https://www.crummy.com/software/BeautifulSoup/)
+- [Cheerio](#cheerio) [(link)](https://cheerio.js.org/)
 - [Clearbit](#clearbit) [(link)](http://clearbit.com)
 - [Common Crawl](#common-crawl) [(link)](https://commoncrawl.org/)
 - [Crawly](#crawly) [(link)](http://crawly.diffbot.com/)
@@ -26,6 +27,7 @@ Please help maintain alphabetical order.
 - [lxml](#lxml) [(link)](http://lxml.de/)
 - [Mozenda](#mozenda) [(link)](http://mozenda.com)
 - [Morph.io](#morphio) [(link)](https://morph.io/)
+- [Node-crawler](#node-crawler)[(link)](http://nodecrawler.org)
 - [Nutch](#nutch) [(link)](http://nutch.apache.org/)
 - [Outwit Hub](#outwit-hub) [(link)](http://www.outwit.com/products/hub/)
 - [Octoparse](#octoparse) [(link)](http://www.octoparse.com/)
@@ -58,6 +60,14 @@ Web. It allow for searching the HTML tree to find various tags.
 
 **Applicable Language(s)**
 - Python
+
+---
+
+### [Cheerio](https://cheerio.js.org/)
+**Description**:Fast, flexible & lean implementation of core jQuery designed
+
+**Applicable Language(s)**
+- JavaScript
 
 ---
 
@@ -207,6 +217,15 @@ alternative for continuing to use their tools.
 - Python
 - R
 - Ruby
+
+---
+
+###[Node-Crawler](http://nodecrawler.org)
+
+**Description**: Web Crawler/Spider for NodeJS + server-side jQuery
+
+**Applicable Language(s)**
+- Node.js
 
 ---
 
