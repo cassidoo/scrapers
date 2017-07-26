@@ -27,7 +27,7 @@ Please help maintain alphabetical order.
 - [lxml](#lxml) [(link)](http://lxml.de/)
 - [Mozenda](#mozenda) [(link)](http://mozenda.com)
 - [Morph.io](#morphio) [(link)](https://morph.io/)
-- [Node-crawler](#node-crawler)[(link)](http://nodecrawler.org)
+- [Node-crawler](#node-crawler) [(link)](http://nodecrawler.org)
 - [Nutch](#nutch) [(link)](http://nutch.apache.org/)
 - [Outwit Hub](#outwit-hub) [(link)](http://www.outwit.com/products/hub/)
 - [Octoparse](#octoparse) [(link)](http://www.octoparse.com/)
@@ -220,7 +220,7 @@ alternative for continuing to use their tools.
 
 ---
 
-###[Node-Crawler](http://nodecrawler.org)
+### [Node-Crawler](http://nodecrawler.org)
 
 **Description**: Web Crawler/Spider for NodeJS + server-side jQuery
 
