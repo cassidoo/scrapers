@@ -15,6 +15,7 @@ Please help maintain alphabetical order.
 - [Crawly](#crawly) [(link)](http://crawly.diffbot.com/)
 - [Dexi.io](#dexiio) [(link)](https://dexi.io/)
 - [Diffbot](#diffbot) [(link)](http://diffbot.com)
+- [Diggernaut](#diggernaut) [(link)](https://www.diggernaut.com/)
 - [eLink](#elink) [(link)](http://elink.club)
 - [EliteProxySwitcher](#eliteproxyswitcher) [(link)](http://www.eliteproxyswitcher.com/)
 - [Email Hunter](#email-hunter) [(link)](http://emailhunter.co)
@@ -109,6 +110,28 @@ Web. It allow for searching the HTML tree to find various tags.
 pages, crawling websites, and turning a website into an API.
 
 **Applicable Language(s)**
+
+---
+
+### [Diggernaut](https://www.diggernaut.com/)
+
+**Description**: Cloud based web scraping platform.
+
+**Applicable Language(s)**
+- SML
+- Javascript
+
+**Pros**
+- Scraper can be build using visual tool and scraping meta language
+- Can execute JS snippets inside scraper
+- Supports Selenium (optionally) and OCR
+- Automated data validation and export to any text based format
+- Can run scrapers manually and scheduled in the cloud or compile and run locally
+- Full automation using API and integrations with other APIs
+
+**Cons**
+- Currently in beta
+- Doesn't support PDF parsing yet
 
 ---
 
