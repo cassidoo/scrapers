@@ -39,6 +39,7 @@ Please help maintain alphabetical order.
 - [Toofr](#toofr) [(link)](http://toofr.com)
 - [UBot Studio](#ubot-studio) [(link)](http://www.ubotstudio.com/index7)
 - [UiPath](#uipath) [(link)](http://www.uipath.com/)
+- [Venom](#uipath) [(link)](https://venom.preferred.ai/)
 - [Web Robots](#web-robots) [(link)](https://webrobots.io)
 - [Web Scraper](#web-scraper) [(link)](http://webscraper.io/)
 - [WrapAPI](#wrapapi) [(link)](https://wrapapi.com)
@@ -322,6 +323,22 @@ and recorder.
 **Description**: Visual tool for GUI automation by recording.
 
 **Applicable Language(s)**
+
+---
+
+### [Venom](https://venom.preferred.ai)
+
+**Description**: Venom is an open source focused crawler for the Deep Web.
+
+**Features**
+- Multi-threaded
+- Structured crawling
+- Page Validation
+- Automatic Retries
+- Proxy support
+
+**Applicable Language(s)**
+- JAVA
 
 ---
 
