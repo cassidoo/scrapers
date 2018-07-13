@@ -23,6 +23,7 @@ Please help maintain alphabetical order.
 - [FMiner](#fminer) [(link)](http://www.fminer.com/)
 - [FullContact](#fullcontact) [(link)](http://fullcontact.com)
 - [Grabby](#grabby) [(link)](http://grabby.io)
+- [HrefScrap](#hrefscrap) [(link)](https://github.com/theIYD/HrefScrapper)
 - [Import.io](#importio) [(link)](http://import.io)
 - [Kimonolabs](#kimonolabs) [(link)](http://kimonolabs.com)
 - [lxml](#lxml) [(link)](http://lxml.de/)
@@ -188,6 +189,14 @@ such as Full-Text RSS and Term Extraction as services.
 ### [Grabby](http://grabby.io)
 
 **Description**: Service that searches a website for e-mails.
+
+**Applicable Language(s)**
+
+---
+
+### [HrefScrap](https://github.com/theIYD/HrefScrapper)
+
+**Description**: A chrome extension which scrapes off all the href's from a web page.
 
 **Applicable Language(s)**
 
