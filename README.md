@@ -33,6 +33,7 @@ Please help maintain alphabetical order.
 - [Nutch](#nutch) [(link)](http://nutch.apache.org/)
 - [Outwit Hub](#outwit-hub) [(link)](http://www.outwit.com/products/hub/)
 - [Octoparse](#octoparse) [(link)](http://www.octoparse.com/)
+- [Prisync](#prisync) [(link)](https://prisync.com)
 - [rvest](#rvest) [(link)](https://github.com/hadley/rvest)
 - [scrape-it](#scrape-it) [(link)](https://github.com/IonicaBizau/scrape-it)
 - [ScraperWiki](#scraperwiki) [(link)](https://scraperwiki.com/)
@@ -283,6 +284,14 @@ turn it into structured data (CSV, Excel, etc.).
 ### [Octoparse](http://www.octoparse.com)
 
 **Description**: The free web scraping tool for extracting all the web page data into several structured file formats easily and effectively.
+
+**Applicable Language(s)**
+
+---
+
+### [Prisync](https://prisync.com)
+
+**Description**: Service that tracks prices and provides dynamic pricing rules for e-commerce website.
 
 **Applicable Language(s)**
 
