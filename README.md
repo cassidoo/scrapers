@@ -35,6 +35,7 @@ Please help maintain alphabetical order.
 - [Octoparse](#octoparse) [(link)](http://www.octoparse.com/)
 - [rvest](#rvest) [(link)](https://github.com/hadley/rvest)
 - [scrape-it](#scrape-it) [(link)](https://github.com/IonicaBizau/scrape-it)
+- [Scraper.AI](#scraper-ai) [(link)](https://scraper.ai)
 - [ScraperWiki](#scraperwiki) [(link)](https://scraperwiki.com/)
 - [Scrapinghub](#scrapinghub) [(link)](http://scrapinghub.com)
 - [Screen Scraper](#screen-scraper) [(link)](http://community.screen-scraper.com/)
@@ -303,6 +304,17 @@ turn it into structured data (CSV, Excel, etc.).
 
 **Applicable Language(s)**
 - JavaScript (Node.js)
+
+---
+
+### [Scraper.AI](https://scraper.AI)
+
+**Description**: Scraper.AI is an automated scraping SaaS that makes extracting data from any webpage as simple as clicking and selecting what you want. With a few clicks you can gather thousands of records.
+
+Best of all, changes to the selections are monitored as often as you want. Updates are pushed to a consumable API for you to build on top of it
+
+**Applicable Language(s)**
+- Any, through a JSON API and (optional) webhook
 
 ---
 
