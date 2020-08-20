@@ -37,6 +37,7 @@ Please help maintain alphabetical order.
 - [scrape-it](#scrape-it) [(link)](https://github.com/IonicaBizau/scrape-it)
 - [Scraper.AI](#scraper-ai) [(link)](https://scraper.ai)
 - [ScraperWiki](#scraperwiki) [(link)](https://scraperwiki.com/)
+- [ScrapingAnt](#scrapingant) [(link)](http://scrapingant.com)
 - [Scrapinghub](#scrapinghub) [(link)](http://scrapinghub.com)
 - [Screen Scraper](#screen-scraper) [(link)](http://community.screen-scraper.com/)
 - [Toofr](#toofr) [(link)](http://toofr.com)
@@ -324,6 +325,15 @@ Best of all, changes to the selections are monitored as often as you want. Updat
 service. This is used by many news organisations.
 
 **Applicable Language(s)**
+
+---
+
+### [ScrapingAnt](https://scrapingant.com)
+
+**Description**: ScrapingAnt is a Headless Chrome scraping API and free checked proxies service. ScrapingAnt supports Javascript rendering, premium rotating proxies and CAPTCHAs avoiding tools. Free plans available.
+
+**Applicable Language(s)**
+- Any, through a JSON API
 
 ---
 
