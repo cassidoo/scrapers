@@ -33,7 +33,7 @@ Please help maintain alphabetical order.
 - [Nutch](#nutch) [(link)](http://nutch.apache.org/)
 - [Outwit Hub](#outwit-hub) [(link)](http://www.outwit.com/products/hub/)
 - [Octoparse](#octoparse) [(link)](http://www.octoparse.com/)
-- [Proxies API](#proxiesapi) [(link)](https://proxiesapi.com/)
+- [Proxies API](#ProxiesAPI) [(link)](https://proxiesapi.com/)
 - [rvest](#rvest) [(link)](https://github.com/hadley/rvest)
 - [scrape-it](#scrape-it) [(link)](https://github.com/IonicaBizau/scrape-it)
 - [Scraper.AI](#scraper-ai) [(link)](https://scraper.ai)
@@ -288,6 +288,15 @@ turn it into structured data (CSV, Excel, etc.).
 **Description**: The free web scraping tool for extracting all the web page data into several structured file formats easily and effectively.
 
 **Applicable Language(s)**
+
+---
+
+### [ProxiesAPI](http://proxiesapi.com)
+
+**Description**: Get HTML from any page with a simple API call. We handle proxy rotation, browser identities, automatic retries, CAPTCHAs, javascript rendering etc automatically for you.
+
+**Applicable Language(s)**
+- Any
 
 ---
 
