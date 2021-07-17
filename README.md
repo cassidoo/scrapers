@@ -33,6 +33,7 @@ Please help maintain alphabetical order.
 - [Nutch](#nutch) [(link)](http://nutch.apache.org/)
 - [Outwit Hub](#outwit-hub) [(link)](http://www.outwit.com/products/hub/)
 - [Octoparse](#octoparse) [(link)](http://www.octoparse.com/)
+- [Proxies API](#proxiesapi) [(link)](https://proxiesapi.com/)
 - [rvest](#rvest) [(link)](https://github.com/hadley/rvest)
 - [scrape-it](#scrape-it) [(link)](https://github.com/IonicaBizau/scrape-it)
 - [Scraper.AI](#scraper-ai) [(link)](https://scraper.ai)
