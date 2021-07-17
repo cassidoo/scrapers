@@ -296,7 +296,7 @@ turn it into structured data (CSV, Excel, etc.).
 **Description**: Get HTML from any page with a simple API call. We handle proxy rotation, browser identities, automatic retries, CAPTCHAs, javascript rendering etc automatically for you.
 
 **Applicable Language(s)**
-- Any
+- Any, using an API
 
 ---
 
