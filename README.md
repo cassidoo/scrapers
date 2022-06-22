@@ -49,6 +49,7 @@ Please help maintain alphabetical order.
 - [Web Scraper](#web-scraper) [(link)](http://webscraper.io/)
 - [WrapAPI](#wrapapi) [(link)](https://wrapapi.com)
 - [X-Ray](#x-ray) [(link)](https://github.com/lapwinglabs/x-ray)
+- [ZenRows](#zenrows) [(link)](https://www.zenrows.com/)
 
 ### [Apifier](http://apifier.com)
 
@@ -459,3 +460,13 @@ for tables).
 
 **Applicable Language(s)**
 - JavaScript (Node.js)
+
+---
+
+### [ZenRows](https://www.zenrows.com/)
+
+**Description**: Web Scraping API & proxy server that bypasses any anti-bot solution while offering javascript rendering, rotating proxies, and geotargeting.
+
+**Applicable Language(s)**
+- Any, using an API or proxy
+- JavaScript (Node.js SDK available) 
