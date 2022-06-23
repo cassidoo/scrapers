@@ -101,6 +101,25 @@ Web. It allow for searching the HTML tree to find various tags.
 
 ---
 
+### [Data Collector](https://brightdata.com/products/data-collector)
+
+**Description**: Self-service and full-service collectors using residential proxy and website unlocker technology.
+
+**Applicable Language(s)**
+- JavaScript
+
+**Pros**
+- Flexible data delivery options: webhook, email, Amazon S3, Google Cloud, Microsoft Azure, SFTP, or API
+- Various output file formats: JSON, CSV, HTML, or Microsoft Excel
+- Hundreds of premade website scraping templates
+- Large, pre-collected data sets available
+
+**Cons**
+- No free plan
+- Fully-managed scraping templates can only be modified by the support team, customers can only edit the self-managed templates or build their own.
+
+---
+
 ### [Dexi.io](https://dexi.io/)
 
 **Description**: Website data extraction using a visual programming language.
