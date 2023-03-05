@@ -14,7 +14,7 @@ Please help maintain alphabetical order.
 - [Clearbit](#clearbit) [(link)](http://clearbit.com)
 - [Common Crawl](#common-crawl) [(link)](https://commoncrawl.org/)
 - [Crawly](#crawly) [(link)](http://crawly.diffbot.com/)
-- [Data Collector](#datacollector) [(link)](https://brightdata.com/products/data-collector/)
+- [Scraper IDE](#scraper-ide) [(link)](https://brightdata.grsm.io/vitariz-dca/)
 - [Dexi.io](#dexiio) [(link)](https://dexi.io/)
 - [Diffbot](#diffbot) [(link)](http://diffbot.com)
 - [Diggernaut](#diggernaut) [(link)](https://www.diggernaut.com/)
