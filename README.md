@@ -37,6 +37,7 @@ Please help maintain alphabetical order.
 - [rvest](#rvest) [(link)](https://github.com/hadley/rvest)
 - [scrape-it](#scrape-it) [(link)](https://github.com/IonicaBizau/scrape-it)
 - [Scraper.AI](#scraper-ai) [(link)](https://scraper.ai)
+- [ScraperAPI](#scraperapi) [(link)](https://scraperapi.com)
 - [ScraperWiki](#scraperwiki) [(link)](https://scraperwiki.com/)
 - [ScrapingAnt](#scrapingant) [(link)](http://scrapingant.com)
 - [Scrapinghub](#scrapinghub) [(link)](http://scrapinghub.com)
@@ -338,6 +339,21 @@ Best of all, changes to the selections are monitored as often as you want. Updat
 
 **Applicable Language(s)**
 - Any, through a JSON API and (optional) webhook
+
+---
+
+### [ScraperAPI](https://scraperapi.com)
+
+**Description**: ScraperAPI is a tool for developers building web scrapers, it handles proxies, browsers, and CAPTCHAs so developers can get the raw HTML from any website with a simple API call.
+
+It’s the ultimate web scraping service for developers, with special pools of proxies for ecommerce price scraping, search engine scraping, social media scraping, sneaker scraping, ticket scraping and more.
+
+**Applicable Language(s)**
+- Python
+- NodeJS
+- PHP
+- Ruby
+- Java
 
 ---
 
