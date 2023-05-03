@@ -41,6 +41,7 @@ Please help maintain alphabetical order.
 - [ScraperWiki](#scraperwiki) [(link)](https://scraperwiki.com/)
 - [ScrapingAnt](#scrapingant) [(link)](http://scrapingant.com)
 - [Scrapinghub](#scrapinghub) [(link)](http://scrapinghub.com)
+- [Scrapper](#scrapper) [(link)](https://github.com/amerkurev/scrapper)
 - [Screen Scraper](#screen-scraper) [(link)](http://community.screen-scraper.com/)
 - [Toofr](#toofr) [(link)](http://toofr.com)
 - [UBot Studio](#ubot-studio) [(link)](http://www.ubotstudio.com/index7)
@@ -382,6 +383,15 @@ deploy their own scrapers on their platform and benefit from their existing
 infrastructure.
 
 **Applicable Language(s)**
+
+---
+
+### [Scrapper](https://github.com/amerkurev/scrapper)
+
+**Description**: Scrapper is a powerful web scraping tool with a built-in headless browser and Read mode for parsing. It has a simple and beautiful web interface, a REST API, and can search for news links on websites. Other features include stealth mode, caching results, page screenshots, proxy support, and full customization. Scrapper is delivered as a Docker image and is free to use.
+
+**Applicable Language(s)**
+- Any, through a JSON API
 
 ---
 
