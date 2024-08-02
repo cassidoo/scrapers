@@ -46,6 +46,7 @@ Please help maintain alphabetical order.
 - [Toofr](#toofr) [(link)](http://toofr.com)
 - [UBot Studio](#ubot-studio) [(link)](http://www.ubotstudio.com/index7)
 - [UiPath](#uipath) [(link)](http://www.uipath.com/)
+- [unstructured](#unstructured)[(link)(https://docs.unstructured.io/)]
 - [Venom](#uipath) [(link)](https://venom.preferred.ai/)
 - [Web Robots](#web-robots) [(link)](https://webrobots.io)
 - [Web Scraper](#web-scraper) [(link)](http://webscraper.io/)
@@ -427,6 +428,19 @@ and recorder.
 **Applicable Language(s)**
 
 ---
+### [unstructured](https://docs.unstructured.io/)
+
+**Description**: Library and tools for extracting and parsing unstructured data
+
+**Applicable Language(s)**
+- Python
+**Pros**
+- Open source library
+
+**Cons**
+- Tools that require payment
+---
+
 
 ### [Venom](https://venom.preferred.ai)
 
