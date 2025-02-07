@@ -8,6 +8,7 @@ Please help maintain alphabetical order.
 
 ## Table Of Contents
 - [Apifier](#apifier) [(link)](http://apifier.com)
+- [AgentQL](#agentql) [(link)](https://agentql.com/)
 - [Beautiful Soup](#beautiful-soup) [(link)](https://www.crummy.com/software/BeautifulSoup/)
 - [Browse AI](#browse-ai) [(link)](https://www.browseai.com/)
 - [Cheerio](#cheerio) [(link)](https://cheerio.js.org/)
@@ -59,6 +60,16 @@ Please help maintain alphabetical order.
 
 **Applicable Language(s)**
 - JavaScript
+
+---
+
+### [AgentQL](http://agentql.com)
+
+**Description**: AI-powered data extractor with GraphQL-inspired syntax returns data in the structure you define. Has REST API, Chrome Extension, and playground.
+
+**Applicable Language(s)**
+- JavaScript
+- Python
 
 ---
 
