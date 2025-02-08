@@ -44,6 +44,7 @@ Please help maintain alphabetical order.
 - [Scrapinghub](#scrapinghub) [(link)](http://scrapinghub.com)
 - [Scrapper](#scrapper) [(link)](https://github.com/amerkurev/scrapper)
 - [Screen Scraper](#screen-scraper) [(link)](http://community.screen-scraper.com/)
+- [SearchApi](#searchapi) [(link)](https://www.searchapi.io/)
 - [Toofr](#toofr) [(link)](http://toofr.com)
 - [UBot Studio](#ubot-studio) [(link)](http://www.ubotstudio.com/index7)
 - [UiPath](#uipath) [(link)](http://www.uipath.com/)
@@ -411,6 +412,22 @@ infrastructure.
 **Description**: Local tool for scraping websites.
 
 **Applicable Language(s)**
+
+---
+
+### [SearchApi](https://www.searchapi.io/)
+
+**Description**: SearchApi is a real-time SERP API that delivers structured data from major search engines such as Google, Bing, Amazon, YouTube, and many more.
+
+**Features**
+- Supports precise geo-targeting for location-specific results.
+- Provides the HTML of scraped pages to facilitate easier testing.
+- Automatically solves CAPTCHAs.
+- Simple integration using HTTP GET requests.
+- Delivers real-time data, ensuring results are always current.
+
+**Applicable Language(s)**
+- Compatible with any programming language through a JSON API
 
 ---
 
