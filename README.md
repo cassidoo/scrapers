@@ -15,6 +15,7 @@ Please help maintain alphabetical order.
 - [Clearbit](#clearbit) [(link)](http://clearbit.com)
 - [Common Crawl](#common-crawl) [(link)](https://commoncrawl.org/)
 - [Crawly](#crawly) [(link)](http://crawly.diffbot.com/)
+- [Scraper IDE](#scraper-ide) [(link)](https://brightdata.grsm.io/vitariz-dca/)
 - [Dexi.io](#dexiio) [(link)](https://dexi.io/)
 - [Diffbot](#diffbot) [(link)](http://diffbot.com)
 - [Diggernaut](#diggernaut) [(link)](https://www.diggernaut.com/)
@@ -132,6 +133,25 @@ Web. It allow for searching the HTML tree to find various tags.
 **Description**: Automatic service that turns a website into structured data in the form of JSON or CSV.
 
 **Applicable Language(s)**
+
+---
+
+### [Data Collector](https://brightdata.com/products/data-collector)
+
+**Description**: Self-service and full-service collectors using residential proxy and website unlocker technology.
+
+**Applicable Language(s)**
+- JavaScript
+
+**Pros**
+- Flexible data delivery options: webhook, email, Amazon S3, Google Cloud, Microsoft Azure, SFTP, or API
+- Various output file formats: JSON, CSV, HTML, or Microsoft Excel
+- Hundreds of premade website scraping templates
+- Large, pre-collected data sets available
+
+**Cons**
+- No free plan
+- Fully-managed scraping templates can only be modified by the support team, customers can only edit the self-managed templates or build their own.
 
 ---
 
