@@ -7,6 +7,7 @@ Please contribute by adding links, adding pros/cons, titles, or anything else yo
 Please help maintain alphabetical order.
 
 ## Table Of Contents
+- [AIScraper](#aiscraper) [(link)](https://aiscraper.co/)
 - [Apifier](#apifier) [(link)](http://apifier.com)
 - [AgentQL](#agentql) [(link)](https://agentql.com/)
 - [Beautiful Soup](#beautiful-soup) [(link)](https://www.crummy.com/software/BeautifulSoup/)
@@ -53,6 +54,25 @@ Please help maintain alphabetical order.
 - [WrapAPI](#wrapapi) [(link)](https://wrapapi.com)
 - [X-Ray](#x-ray) [(link)](https://github.com/lapwinglabs/x-ray)
 - [ZenRows](#zenrows) [(link)](https://www.zenrows.com/)
+
+### [AIScraper](https://aiscraper.co/)
+
+**Description**: Chrome Extension that can extract structured information from a website. Fully based on AI and doesn't require coding skills. Returns data in CSV and JSON formats.
+
+**Pros**
+- Nocode - AI can do all the work
+- Request data collection in natural language
+- Scraper can find selectors automatically
+- Extracted data modifications on the fly
+- Results analysis with AI
+- 
+
+**Cons**
+- Currently in beta
+- Doesn't support deep scraping by links and pagination
+
+---
+
 
 ### [Apifier](http://apifier.com)
 
